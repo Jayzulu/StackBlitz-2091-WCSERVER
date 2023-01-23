@@ -1,2 +1,2 @@
 var sum = require('./add.js');
-console.log(sum(5, 5));
+console.log(sum(10, 20));
